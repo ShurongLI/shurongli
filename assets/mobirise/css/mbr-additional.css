@@ -1751,7 +1751,7 @@ body {
 }
 .cid-qJ0ZcBbyuo .nav-link:hover,
 .cid-qJ0ZcBbyuo .dropdown-item:hover {
-  color: #55b4d4 !important;
+  color: #ffffff !important;
 }
 .cid-qJ0ZcBRHZ2 {
   background-image: url("../../../assets/images/fullsizeoutput-255a-2000x1500.jpg");
@@ -2033,6 +2033,77 @@ body {
   background: rgba(206, 206, 206, 0.4);
 }
 .cid-qJ1iiX7Bgm .progress_value span {
+  padding-left: 30px;
+}
+.cid-qJ1t6Pk9qT {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #fafafa;
+}
+.cid-qJ1t6Pk9qT .progress {
+  width: 100%;
+}
+.cid-qJ1t6Pk9qT progress {
+  height: 8px;
+}
+.cid-qJ1t6Pk9qT h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-qJ1t6Pk9qT .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qJ1t6Pk9qT .progress_value {
+  position: relative;
+}
+.cid-qJ1t6Pk9qT .progress_elements {
+  margin: 0 auto;
+}
+.cid-qJ1t6Pk9qT .title-wrap {
+  display: flex;
+  justify-content: space-between;
+}
+.cid-qJ1t6Pk9qT .progress1 .progressbar-number:before,
+.cid-qJ1t6Pk9qT .progress2 .progressbar-number:before,
+.cid-qJ1t6Pk9qT .progress3 .progressbar-number:before,
+.cid-qJ1t6Pk9qT .progress4 .progressbar-number:before {
+  position: absolute;
+  right: 15px;
+  top: 0;
+}
+.cid-qJ1t6Pk9qT progress[value]::-webkit-progress-bar {
+  background: rgba(206, 206, 206, 0.4);
+}
+.cid-qJ1t6Pk9qT progress::-webkit-progress-value {
+  background: #149dcc;
+}
+.cid-qJ1t6Pk9qT progress[value]::-moz-progress-bar {
+  background: #149dcc;
+}
+.cid-qJ1t6Pk9qT progress::-ms-fill {
+  background: #149dcc;
+}
+.cid-qJ1t6Pk9qT .progress1 .progressbar-number:before {
+  content: '75';
+}
+.cid-qJ1t6Pk9qT .progress2 .progressbar-number:before {
+  content: '80';
+}
+.cid-qJ1t6Pk9qT .progress3 .progressbar-number:before {
+  content: '90';
+}
+.cid-qJ1t6Pk9qT .progress4 .progressbar-number:before {
+  content: '91';
+}
+.cid-qJ1t6Pk9qT .progress-primary {
+  background: rgba(206, 206, 206, 0.4);
+  border: none;
+  outline: none;
+}
+.cid-qJ1t6Pk9qT .progress-primary::-webkit-progress-bar {
+  background: rgba(206, 206, 206, 0.4);
+}
+.cid-qJ1t6Pk9qT .progress_value span {
   padding-left: 30px;
 }
 .cid-qJ1ir8iSOC {
