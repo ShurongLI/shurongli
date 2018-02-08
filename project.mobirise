@@ -1536,7 +1536,7 @@
               "text-align": "left"
             },
             ".mbr-timeline-date": {
-              "text-align": "center"
+              "text-align": "left"
             }
           },
           "_name": "timeline1",
