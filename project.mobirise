@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site-clone-clone",
-    "currentPage": "Shurong LI CV.html",
+    "currentPage": "ShurongliCV.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 50,
     "versionPublish": "4.6.4",
@@ -40,7 +40,7 @@
     "sitemapSwitcherAuto": "on"
   },
   "pages": {
-    "Shurong LI CV.html": {
+    "ShurongliCV.html": {
       "settings": {
         "main": true,
         "title": "Shurong LI Website CV",
