@@ -2517,7 +2517,7 @@ body {
 .cid-qJ1irr5phV {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f8f8f8;
+  background-color: #ffffff;
 }
 .cid-qJ1irr5phV .mbr-section-subtitle {
   color: #767676;
@@ -2647,7 +2647,7 @@ body {
 }
 .cid-qJ1nc3F4Zg .timeline-text-content {
   padding: 2rem 2.5rem;
-  background: #e7e7e7;
+  background: #b2ccd2;
   margin-right: 2rem;
   transition: all .4s;
 }
@@ -2684,7 +2684,7 @@ body {
   text-align: center;
   border-radius: 50%;
   display: inline-block;
-  background-color: #e7e7e7;
+  background-color: #b2ccd2;
   top: 20px;
   margin-left: -30px;
 }
@@ -2703,7 +2703,7 @@ body {
   position: absolute;
   content: "";
   width: 2px;
-  background-color: #e7e7e7;
+  background-color: #b2ccd2;
   left: calc(50% - 1px);
   height: calc(100% + 4rem);
 }
