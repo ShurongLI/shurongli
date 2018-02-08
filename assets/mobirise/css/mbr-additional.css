@@ -2013,7 +2013,7 @@ body {
   background: #149dcc;
 }
 .cid-qJ1iiX7Bgm .progress1 .progressbar-number:before {
-  content: '70';
+  content: '80';
 }
 .cid-qJ1iiX7Bgm .progress2 .progressbar-number:before {
   content: '80';
@@ -2022,7 +2022,7 @@ body {
   content: '90';
 }
 .cid-qJ1iiX7Bgm .progress4 .progressbar-number:before {
-  content: '100';
+  content: '75';
 }
 .cid-qJ1iiX7Bgm .progress-primary {
   background: rgba(206, 206, 206, 0.4);
@@ -2135,17 +2135,6 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
-}
-.cid-qJ1pPv1i8u {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-qJ1pPv1i8u .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qJ1pPv1i8u .btn {
-  margin: 0 0 .5rem 0;
 }
 .cid-qJ0ZcBbyuo .navbar {
   padding: .5rem 0;
