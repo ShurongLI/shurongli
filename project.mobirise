@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site-clone",
-    "currentPage": "Shurong LI CV.html",
+    "currentPage": "ShurongliCV.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 48,
     "versionPublish": "4.6.4",
@@ -978,7 +978,7 @@
         }
       ]
     },
-    "Shurong LI CV.html": {
+    "ShurongliCV.html": {
       "settings": {
         "main": true,
         "title": "Shurong LI Website CV",
@@ -1860,7 +1860,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/dareasiav2.2-1890x1417.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -1877,8 +1877,8 @@
                 "overlayOpacity": "0"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/dareasia2-1366x768.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/dareasia2-1-1366x768.jpg",
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
